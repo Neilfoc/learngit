@@ -5,5 +5,4 @@
 本地修改，这次github上配置了ssh。
 
 本地修改3，这次直接push不用add和commit。
-2+2=4
 1+1=2
